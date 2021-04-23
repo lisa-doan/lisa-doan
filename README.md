@@ -1,4 +1,5 @@
 ### Hi, I'm Lisa 👋
+I'm a software engineer who has a passion for coding. I love that coding allows creativity and it can bring any idea to a reality!
 
 ![Lisa's GitHub stats](https://github-readme-stats.vercel.app/api?username=lisa-doan&theme=graywhite)
 
