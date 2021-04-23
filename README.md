@@ -1,5 +1,4 @@
 ### Hi, I'm Lisa 👋
-I have a passion for coding and 
 
 ![Lisa's GitHub stats](https://github-readme-stats.vercel.app/api?username=lisa-doan&theme=graywhite)
 
@@ -14,10 +13,8 @@ I have a passion for coding and
 <img src="https://user-images.githubusercontent.com/77419144/115799845-2c5e6780-a38e-11eb-8f5a-2375fda97e72.png" width="200"><img src="https://user-images.githubusercontent.com/77419144/115799949-629be700-a38e-11eb-9c99-46a4d4a8d5d8.png" width="200"><img src="https://user-images.githubusercontent.com/77419144/115800017-8eb76800-a38e-11eb-88d0-25004edc33c6.png" width="200">
 
 #### Contact me
-www.linkedin.com/in/lisandoan
-
-
-
+Let's connect on <a href="www.linkedin.com/in/lisandoan">LinkedIn</a>!<br>
+Resume: please email me :D
 
 
 <!--
